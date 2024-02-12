@@ -27,6 +27,7 @@ const Feed = () => {
           <Post />
           <Post />
           <Post />
+          <h1>hello github</h1>
         </>
       )}
     </Box>
